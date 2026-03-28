@@ -24,7 +24,7 @@ Currently working at **ASG SHOP™**, building a centralized institution managem
 🌱  Learning       Advanced ML, YOLO architectures, and Rust
 🤝  Open to        Open-source collabs, ML/AI research, React Native projects
 💬  Ask me about   Backend systems, CI/CD pipelines, AI/ML engineering
-⚡  Fun fact       Organized a programming contest with mandatory junior teammates — because mentorship matters
+⚡  Fun fact:       Organized a programming contest with mandatory junior teammates — because mentorship matters
 ```
 
 ---

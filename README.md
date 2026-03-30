@@ -130,8 +130,5 @@ Currently building production-grade systems at **ASG SHOP™** and publishing re
 
 <div align="center">
   <i>Open to collaboration on full-stack product development, AI/ML research, and backend systems.</i>
-  <br /><br />
-  <a href="https://visitcount.itsvg.in/api?id=awoladhossain&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=awoladhossain&icon=0&color=0" alt="visitor count" />
-  </a>
+  <br />
 </div>

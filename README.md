@@ -26,10 +26,10 @@
 
 ## ⚡ About Me
 
-I am a **Full-Stack Software Engineer** specializing in designing high-performance backend systems, microservices architectures, and robust DevOps pipelines. I enjoy structural engineering, optimizing complex queries, and building thread-safe applications.
+I am a **Full-Stack Software Engineer** specializing in designing high-performance backend systems, microservices architectures, and robust DevOps pipelines. Currently engineering core enterprise automation systems at **Neoscoder (Akij Venture Ltd)**, I enjoy structural engineering, optimizing complex database queries, and building high-concurrency, thread-safe applications.
 
 - 🛠️ **Current Engineering focus:** Hexagonal Architecture, Modular Monoliths, Message Queues, and Cloud Integration.
-- 🎯 **Domain Expertise:** Distributed systems, database synchronization, and scalable RESTful/gRPC APIs.
+- 🎯 **Domain Expertise:** Distributed systems, high-concurrency synchronization, and scalable RESTful/gRPC APIs.
 - 🏆 **Research Track:** Published First Author at **Springer BIM 2025** and Co-author at **IEEE COMPAS 2024**.
 
 ---
@@ -73,6 +73,12 @@ I am a **Full-Stack Software Engineer** specializing in designing high-performan
 
 ## 🛠️ Featured Engineering
 
+### 🏭 Neoscoder (Akij Venture Ltd) — Enterprise Automation Systems
+> *High-concurrency core backend development and large-scale data optimization.*
+- **Concurrency & Locking:** Engineered a high-performance system utilizing a dual-layer locking strategy (**Lua-backed Redis Distributed Locking** and **PostgreSQL Pessimistic Locking**) to handle thousands of daily concurrent inventory transactions with zero data mismatch.
+- **Asynchronous Workloads:** Integrated **BullMQ & Redis** to eliminate thread-blocking operations, optimizing heavy background jobs and keeping core API latencies under 200ms.
+- **System Stability:** Validated infrastructure resilience and traffic endurance via comprehensive **k6 load testing** under heavy simulation profiles.
+
 ### 🚗 RideTrack BD — Distributed Ride-Sharing Platform
 > *Real-time location intelligence and dynamic matching engine.*
 - **Backend Core:** Engineered high-throughput microservices using **Go** and **Java / Spring Boot** for lightning-fast computational pricing matrices.
@@ -82,12 +88,12 @@ I am a **Full-Stack Software Engineer** specializing in designing high-performan
 ### 🏢 TurfSync / ASG SHOP™ — Enterprise Modular Architectures
 > *Scalable multi-tenant institution and data-intensive management core.*
 - **Design Patterns:** Built robust enterprise APIs with **NestJS** and **Prisma ORM** enforcing strict Clean/Hexagonal Architecture boundaries.
-- **Data Integrity:** Implemented advanced **Role-Based Access Control (RBAC)** matrices, **Zod** request sanitization, and heavy background job workers powered by **BullMQ & Redis**.
-- **Performance:** Eliminated thread-blocking queries, optimizing database read/write bottlenecks by **over 40%** in active production environments.
+- **Data Integrity:** Implemented advanced **Role-Based Access Control (RBAC)** matrices, **Zod** request sanitization, and automated integration checks.
+- **Performance:** Eliminated bottlenecks, optimizing database read/write queries by **over 30%** for large data aggregates in active production environments.
 
 ### 🤟 SignVision — Intelligent Vision Diagnostics
 > *Computer Vision and Deep Learning system. Published at **Springer BIM 2025**.*
-- Designed a real-time Bangla sign language translation model leveraging custom **YOLOv8 & OpenCV** custom configurations.
+- Designed a real-time Bangla sign language translation model leveraging custom **YOLOv8 & OpenCV** configurations.
 - Trained and evaluated on over **10,000+ data instances** and deployed as an isolated API service with GPU acceleration.
 
 ---
